@@ -1,11 +1,12 @@
 @import './base.css';
 
 #app {
-  max-width: 1280px;
+  box-sizing: border-box;
   margin: 0 auto;
-  padding: 2rem;
-
+  padding: 0;
+  color: #37474f;
   font-weight: normal;
+  text-align: center;
 }
 
 a,
